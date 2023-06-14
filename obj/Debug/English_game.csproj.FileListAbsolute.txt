@@ -1,0 +1,16 @@
+E:\CS511\Practice\English_game\bin\Debug\English_game.exe.config
+E:\CS511\Practice\English_game\bin\Debug\English_game.exe
+E:\CS511\Practice\English_game\bin\Debug\English_game.pdb
+E:\CS511\Practice\English_game\obj\Debug\English_game.csproj.AssemblyReference.cache
+E:\CS511\Practice\English_game\obj\Debug\English_game.csproj.SuggestedBindingRedirects.cache
+E:\CS511\Practice\English_game\obj\Debug\English_game.Form1.resources
+E:\CS511\Practice\English_game\obj\Debug\English_game.Properties.Resources.resources
+E:\CS511\Practice\English_game\obj\Debug\English_game.csproj.GenerateResource.cache
+E:\CS511\Practice\English_game\obj\Debug\English_game.csproj.CoreCompileInputs.cache
+E:\CS511\Practice\English_game\obj\Debug\English_game.exe
+E:\CS511\Practice\English_game\obj\Debug\English_game.pdb
+E:\CS511\Practice\English_game\obj\Debug\English_game.Form2.resources
+E:\CS511\Practice\English_game\obj\Debug\English_game.Form3.resources
+E:\CS511\Practice\English_game\obj\Debug\English_game.Form4.resources
+E:\CS511\Practice\English_game\obj\Debug\English_game.Form5.resources
+E:\CS511\Practice\English_game\obj\Debug\English_game.Form7.resources
